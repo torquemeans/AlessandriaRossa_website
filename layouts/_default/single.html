@@ -1,60 +1,48 @@
 {{ define "main" }}
-
 {{ partial "header" . }}
-
 <style>
-
 .article-container {
   max-width: 900px;
-  margin: 90px auto 40px auto; 
+  margin: 90px auto 40px auto;
   padding: 0 20px;
   font-family: system-ui, Arial, sans-serif;
 }
-
 .article-header {
   margin-bottom: 20px;
 }
-
 .article-title {
   font-size: 2.4rem;
   margin: 0 0 5px;
   line-height: 1.2;
 }
-
 .article-meta {
   color: #666;
   font-size: 0.95rem;
 }
-
 .article-divider {
   border: none;
   border-bottom: 1px solid #ccc;
   margin: 25px 0;
 }
-
 .article-content {
   font-size: 1.18rem;
   line-height: 1.7;
 }
-
 .article-content img {
   max-width: 100%;
   height: auto;
   border-radius: 6px;
   margin: 20px 0;
 }
-
 .article-content p {
   margin: 18px 0;
 }
-
 .article-tags {
   margin-top: 6px;
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
 }
-
 .article-tag {
   font-size: 0.8rem;
   padding: 3px 8px;
@@ -64,49 +52,53 @@
   text-decoration: none;
   transition: background 0.2s ease;
 }
-
 .article-tag:hover {
   background: #ccc;
 }
-
-
-
 </style>
-
 <main class="article-container">
-
   <article class="article">
-
-  <header class="article-header">
-    <h1 class="article-title">{{ .Title }}</h1>
-
-    <div class="article-meta">
-      {{ with .Date }}
-      <time>{{ .Format "January 2, 2006" }}</time>
+    <header class="article-header">
+      <h1 class="article-title">{{ .Title }}</h1>
+      
+      {{ with .Params.original_report }}
+        <p class="article-subtitle">
+          Original text: 
+          <a href="{{ . }}" target="_blank">
+            {{ $.Params.original_title }}
+          </a>
+        </p>
       {{ end }}
 
-      {{ with .Params.tags }}
-        <div class="article-tags">
-          {{ range . }}
-            <a href="/tags/{{ . | urlize }}/" class="article-tag">{{ . }}</a>
-          {{ end }}
-        </div>
-      {{ end }}
+{{ with .Params.original_date }}
+  <p class="article-subtitle" style="margin-top: 8px; color: #555;">
+    Original publication date: 
+    <strong>{{ . }}</strong>
+  </p>
+{{ end }}
 
-    </div>
-  </header>
-
-
+      <div class="article-meta">
+        {{ with .Date }}
+        <time>{{ .Format "January 2, 2006" }}</time>
+        {{ end }}
+        
+        {{ with .Params.tags }}
+          <div class="article-tags">
+            {{ range . }}
+              <a href="/tags/{{ . | urlize }}/" class="article-tag">{{ . }}</a>
+            {{ end }}
+          </div>
+        {{ end }}
+      </div>
+    </header>
+    
     <hr class="article-divider">
-
+    
     <section class="article-content">
       {{ .Content }}
     </section>
-
+    
     <hr class="article-divider">
-
   </article>
-
 </main>
-
 {{ end }}
