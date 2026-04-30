@@ -1,7 +1,7 @@
 +++
 date = '2026-04-30T17:20:10+02:00'
 draft = false
-title = 'In an integrated world, war becomes such too'
+title = 'In an Integrated World, War Becomes Such Too'
 summary = ''
 tags = ['translation', 'quinterna', 'teleriunione', 'april 2026']
 original_report = "https://www.quinternalab.org/teleriunioni/2026/marzo-2026/977-in-un-mondo-integrato-anche-la-guerra-lo-diventa"

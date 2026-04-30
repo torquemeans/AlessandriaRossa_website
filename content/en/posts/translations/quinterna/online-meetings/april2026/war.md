@@ -1,7 +1,7 @@
 +++
 date = '2026-04-30T17:18:46+02:00'
 draft = false
-title = 'War as a symmetry break'
+title = 'War as a Symmetry Break'
 summary = ''
 tags = ['translation', 'quinterna', 'teleriunione', 'april 2026']
 original_report = "https://www.quinternalab.org/teleriunioni/2026/marzo-2026/976-la-guerra-come-rottura-di-simmetria"
