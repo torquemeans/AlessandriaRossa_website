@@ -12,9 +12,9 @@ The focus of Tuesday's online meeting was Japan's current economic situation.
 
 The country has been forced to confront the consequences of economic financialisation: a thirty-year chronic crisis that has driven public debt to 250% of GDP and the private debt to 48% of the total. This debt remains sustainable owing to the fact that 90% of it is held domestically by banks and local investors, a circumstance that has shielded it from foreign speculation. But ultimately, the law of value takes its revenge.
 
-For decades the country was regarded as a kind of "anomaly" of advanced capitalism: characterised by mounting debt yet apparent stability. Now, however, financial analysts have raised the alarm over a possible economic collapse with repercussions on a global scale, beginning with the United States, since Japan is the primary buyer of US Treasury bonds. The YouTube video "[Perché il Giappone può innescare una crisi globale](https://www.youtube.com/watch?v=7P-TItvUsjQ)" concisely traces the historical process that brought Japan to its current condition. 
+For decades the country was regarded as a kind of "anomaly" of advanced capitalism: characterised by mounting debt yet apparent stability. Now, however, financial analysts have raised the alarm over a possible economic collapse with repercussions on a global scale, beginning with the United States, since Japan is the primary buyer of US Treasury bonds. The YouTube video "[Perché il Giappone può innescare una crisi globale](https://www.youtube.com/watch?v=7P-TItvUsjQ)"[^1] concisely traces the historical process that brought Japan to its current condition. 
 
-In 2002, we wrote in the article "[La crisi giapponese](https://www.quinterna.org/pubblicazioni/rivista/10/crisi_giapponese.htm)":
+In 2002, we wrote in the article "[La crisi giapponese](https://www.quinterna.org/pubblicazioni/rivista/10/crisi_giapponese.htm)"[^2]:
 
 > "*There is no surplus of capital without a surplus of commodities, and vice versa. Capitalist overproduction necessarily generates financial abundance and 'parasitic' income [...] Japan has travelled this road to its end. The productive base is shrinking, even as it produces more than ever, and the search for capital valorisation is becoming frenzied.*" 
 
@@ -39,3 +39,6 @@ In the USA, whilst the conditions for a fully anti-establishment situation do no
 US citizens are the most heavily armed population in the world, with 89 firearms per 100 inhabitants, a total of 270 million guns in circulation. Some are organised into militias of various types and persuasions, trained and prepared for armed confrontation. In the USA, more than 30,000 people lose their lives to gunfire every year, an average of around 82 deaths per day.
 
 In the US, a [civil war](https://www.quinterna.org/pubblicazioni/rivista/55/guerra-civile-negli-USA-ma-non-quella-vera.htm) already exists, though currently at low intensity. The one to come will be that of today raised to a higher power.
+
+[^1]: Why Japan could Trigger a Global Crisis
+[^2]: The Japanese Crisis

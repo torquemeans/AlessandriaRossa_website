@@ -3,7 +3,7 @@ date = '2026-04-14T20:22:43+02:00'
 draft = false
 title = "Attack on Iran: a New Chapter of the American Politiguerra"
 summary = ''
-tags = ['translation', 'quinterna', 'teleriunione', 'april 2026']
+tags = ['translation', 'quinterna', 'teleriunione', 'march 2026']
 original_report = "https://www.quinternalab.org/teleriunioni/2026/marzo-2026/974-attacco-all-iran-un-nuovo-capitolo-della-politiguerra-americana"
 original_title = "Attacco all'Iran: un nuovo capitolo della 'politiguerra americana'"
 original_date = "March 3, 2026"
@@ -32,13 +32,13 @@ The time factor is looking to be against the USA, and Israel, seeing as how the 
 
 The increasing difficulties in selling USA’s treasury bonds are leading to an increase in bond yields. The world is starting to disengage itself from the support of the American debt, preferring to seek refuge elsewhere, for example in gold.
 
- The ongoing crisis can be understood starting by the funnel diagram (figure 6) displayed in the article “[Un modello dinamico di crisi](https://www.quinterna.org/pubblicazioni/rivista/24/modello_dinamico_01.htm)”(*n1*+1, n. 24) [^3], in which we can observe that the GDP synchronization of the various countries naturally approximates to zero. The schema portrays the relative increments of industrial production of the major countries from 1914 to 2008 and this evolution mirrors the one of the rate of profit. The valorization global crisis produces an explosion of public debt in various countries,  particularly the USA, causing the necessity to “intercept” shares of world surplus value, a single lymph for an asphyxiated system. The historic crisis of senile capitalism determines an acceleration of the clash, by this point automatic, between capitalistic powers.
+ The ongoing crisis can be understood starting by the funnel diagram (figure 6) displayed in the article “[Un modello dinamico di crisi](https://www.quinterna.org/pubblicazioni/rivista/24/modello_dinamico_01.htm)”(*n*+1, n. 24) [^3], in which we can observe that the GDP synchronization of the various countries naturally approximates to zero. The schema portrays the relative increments of industrial production of the major countries from 1914 to 2008 and this evolution mirrors the one of the rate of profit. The valorization global crisis produces an explosion of public debt in various countries,  particularly the USA, causing the necessity to “intercept” shares of world surplus value, a single lymph for an asphyxiated system. The historic crisis of senile capitalism determines an acceleration of the clash, by this point automatic, between capitalistic powers.
 
 It’s not the blood thirst of capitalists to produce wars, as some *luogocomunisti*[^4] write, but the anonymous and impersonal working mechanisms of capitalism. The same mechanisms that determine the necessity to “liberalize” the job market, as in the case of [Argentina](https://www.chicago86.org/lotte-in-corso/americhe/argentina/1443-sciopero-generale-in-argentina-contro-la-legge-di-modernizzazione-del-lavoro) or Greece, that has brought back by law the possibility to extend the working day up to 12 hours.
 
 Numerous processes are operating  that, for ease of explanation, we treat separately (war, economy, technology, etc.), in reality they’re part of an unique dynamic, the one that leads to the “[historical singularity](https://www.quinterna.org/pubblicazioni/rivista/40/verso_la_singolarita_storica.htm)”.
 
-[^1]: Portmanteau of politica (politics) and guerra (war), denoting how the two concepts have coalesced
-[^2]: Theory and Praxis of the New American Politiguerra
+[^1]: Portmanteau of *politica* (politics) and *guerra* (war), denoting how the two concepts have coalesced
+[^2]: Theory and Praxis of the New American Warpolitik
 [^3]: A Dynamic Crisis Model
-[^4]: Wordplay between luogo comune (commonplace) and comunismo (communism)
+[^4]: Wordplay between *luogo comune* (commonplace) and *comunismo* (communism)

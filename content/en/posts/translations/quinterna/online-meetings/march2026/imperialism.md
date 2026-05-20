@@ -3,7 +3,7 @@ date = '2026-04-30T17:21:15+02:00'
 draft = false
 title = 'Imperialism Gasping for Air'
 summary = ''
-tags = ['translation', 'quinterna', 'teleriunione', 'april 2026']
+tags = ['translation', 'quinterna', 'teleriunione', 'march 2026']
 original_report = "https://www.quinternalab.org/teleriunioni/2026/marzo-2026/978-imperialismo-con-l-acqua-alla-gola"
 original_title = "Imperialismo con l'acqua alla gola"
 original_date = "March 31, 2026"
@@ -20,7 +20,7 @@ During the last online meeting, we revisited the article “Leggi di simmetria e
 
 *“The new [US] doctrine revokes the constitutional prohibition on striking first, erases the previous military model of “containing” the enemy, and contemplates only its destruction. Finally, it tears up half a century of theories on deterrence.”*
 
-The “American *politiguerra*”[^4] against the world did not therefore begin with Trump: at the time of the conflict in Iraq, as well as today in Iran, *“control over the oil flows means control over the flows of surplus value coming from productive sectors and from countries that consume the most energy”*.
+The “American *warpolitik*”[^4] against the world did not therefore begin with Trump: at the time of the conflict in Iraq, as well as today in Iran, *“control over the oil flows means control over the flows of surplus value coming from productive sectors and from countries that consume the most energy”*.
 
 *The Economist* has published an article titled “[The nightmare scenario for global trade](https://www.economist.com/interactive/briefing/2026/03/27/the-nightmare-scenario-for-global-trade)”, accompanied by an animated map illustrating logistic routes through the world’s major straits. The model is dynamic and based on the optimal routes, estimating the volume of maritime trade along each path. The map clearly shows that the issue is not limited to the Strait of Hormuz, which has  come into the spotlight due to the war on Iran, but also involves other chokepoints that, in a scenario of global tension, become critical for the functioning of capitalism. The Bosphorus Strait, the Taiwan Strait, the Suez Canal and the Bab-el-Mandeb Strait are equally strategic points. For Europe, for example, a simultaneous closure of Gibraltar and the Suez would represent an economic disaster. At present, the main concerns are the [Strait of Hormuz](https://www.startmag.it/energia/iran-passaggio-stretto-hormuz-yuan-cinesi/) and, to some extent, Bab-el-Mandeb (recently the Houthis launched two missiles toward Israel); but! *The Economist* warns, the situation could worsen.
 

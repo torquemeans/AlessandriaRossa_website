@@ -3,7 +3,7 @@ date = '2026-04-30T17:17:05+02:00'
 draft = false
 title = 'No "Exit Strategy" by Remaining Inside Capitalism'
 summary = ''
-tags = ['translation', 'quinterna', 'teleriunione', 'april 2026']
+tags = ['translation', 'quinterna', 'teleriunione', 'march 2026']
 original_report = "https://www.quinternalab.org/teleriunioni/2026/marzo-2026/975-nessuna-exit-strategy-rimanendo-all-interno-del-capitalismo"
 original_title = "Nessuna exit strategy rimanendo all'interno del capitalismo"
 original_date = "March 10, 2026"
@@ -39,5 +39,5 @@ The journalist Naomi Klein published in 2007 an essay titled *The Shock Doctrine
 “Men started to communicate and write because they needed to coordinate their work” (F. Engels, *The Part played by Labour in the Transition from Ape to Man*, 1876). Writing made it possible to etch information on a physical medium. Today, with the progress of AI systems, another revolutionary leap is happening: [information](https://www.quinterna.org/pubblicazioni/rivista/37/informazione_e_potere.htm) self-organises, making possible a further process of liberation of the human species from the realm of necessity. The capitalists invest in *software* and robotics to take out the competition, but at the same time, fear the consequences of technological development because in it they recognise the crisis of the wage labour system. A contradiction they cannot resolve.
 
 [^1]: Iran and the Samson Option: gambling everything to blow up the Gulf countries' economy 
-[^2]: Theory and Praxis of the New American *Politiguerra*
+[^2]: Theory and Praxis of the New American Warpolitik
 [^3]: Thrillers and Sinister Dramas of Modern Social Decadence
