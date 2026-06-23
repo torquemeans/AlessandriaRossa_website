@@ -4,7 +4,7 @@
     top: 0;
     left: 0;
     width: 100%;
-    background: #333;
+    background: #9b3c3c;
     color: white;
     padding: 10px 20px;
     display: flex;
@@ -142,8 +142,9 @@
 
 
     <nav class="nav-links">
-      <a href="{{ "tags/" | relLangURL }}">{{ i18n "tags" }}</a>
+      <a href="{{ "collections/" | relLangURL }}">{{ i18n "collections" }}</a>
       <a href="{{ "resources/" | relLangURL }}">{{ i18n "resources" }}</a>
+      <a href="mailto:{{ .Site.Params.email }}">{{ i18n "contact" }}</a>
     </nav>
 
 

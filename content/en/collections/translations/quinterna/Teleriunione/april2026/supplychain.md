@@ -47,4 +47,4 @@ Also in the social point of view the capitalist system is increasingly chaotic a
 [^2]: “Theory and Praxis of the American *Warpolitik*”
 [^3]: “Knocking at the Door of Hell”
 [^4]: “The Potential ‘Europe’ and the New Attractors of Eurasia: Türkiye as a Dynamic Fulcrum”
-[^4]: “A Dynamic Model of Crises”
+[^5]: “A Dynamic Model of Crises”

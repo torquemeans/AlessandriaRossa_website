@@ -1,0 +1,64 @@
+{{ define "main" }}
+
+<style>
+
+.quinterna-container {
+  max-width: 700px;
+  margin: 90px auto 40px auto;
+  padding: 0 20px;
+  font-family: system-ui, Arial, sans-serif;
+  text-align: center;
+}
+
+.quinterna-title {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #9b3c3c;
+  margin-bottom: 40px;
+}
+
+.quinterna-cards {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 28px;
+}
+
+.quinterna-card {
+  display: block;
+  width: 100%;
+  padding: 22px 30px;
+  border: 2px solid #9b3c3c;
+  text-decoration: none;
+  background: #fff;
+  transition: background 0.15s ease;
+}
+
+.quinterna-card:hover {
+  background: #fff5f5;
+}
+
+.quinterna-card-title {
+  font-family: 'Caveat', cursive;
+  font-size: 2rem;
+  color: #9b3c3c;
+  display: block;
+}
+
+</style>
+
+<main class="quinterna-container">
+
+  <h1 class="quinterna-title">{{ .Title }}</h1>
+
+  <div class="quinterna-cards">
+	{{ range .Sections }}
+	  <a class="quinterna-card" href="{{ .RelPermalink }}">
+		<span class="quinterna-card-title">{{ .Title }}</span>
+	  </a>
+	{{ end }}
+  </div>
+
+</main>
+
+{{ end }}

@@ -3,7 +3,7 @@
 <style>
 
 /* Container */
-.list-container {
+.teleriunione-container {
   max-width: 900px;
   margin: 90px auto 40px auto;
   padding: 0 20px;
@@ -11,58 +11,58 @@
 }
 
 /* Page header */
-.list-header {
+.teleriunione-header {
   margin-bottom: 30px;
-}
-
-.list-title {
-  font-size: 2.3rem;
-  margin: 0 0 10px;
   color: #9b3c3c;
 }
-.list-items {
+
+.teleriunione-title {
+  font-size: 2.3rem;
+  margin: 0 0 10px;
+}
+.teleriunione-items {
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 28px;
 }
-/* Each list item */
-.list-item {
-  display: block;
-  width: 100%;
-  padding: 22px 30px;
-  border: 2px solid #9b3c3c;
-  text-decoration: none;
-  background: #fff;
-  transition: background 0.15s ease;
+/* Each teleriunione item */
+.teleriunione-item {
+    display: block;
+    width: 100%;
+    padding: 22px 30px;
+    border: 2px solid #9b3c3c;
+    text-decoration: none;
+    background: #fff;
+    transition: background 0.15s ease;
 }
 
-.list-item:hover {
+.teleriunione-item:hover {
   background: #f0f0f0;
   border-color: #ccc;
 }
 
 /* Title link */
-.list-item-title {
+.teleriunione-item-title {
   font-size: 1.4rem;
   color: #9b3c3c;
   text-decoration: none;
   font-weight: 600;
 }
 
-.list-item-title:hover {
+.teleriunione-item-title:hover {
   text-decoration: underline;
 }
 
 /* Meta info */
-.list-meta {
+.teleriunione-meta {
   color: #9b3c3c;
   font-size: 0.9rem;
   margin: 4px 0 10px 0;
 }
 
 /* Summary */
-.list-summary {
+.teleriunione-summary {
   font-size: 1.05rem;
   line-height: 1.55;
   margin: 0 0 10px 0;
@@ -70,13 +70,13 @@
 }
 
 /* Tags */
-.list-tags {
+.teleriunione-tags {
   display: flex;
   flex-wrap: wrap;
   gap: 6px;
 }
 
-.list-tags a {
+.teleriunione-tags a {
   font-size: 0.85rem;
   background: #e0e0e0;
   color: #9b3c3c;
@@ -86,44 +86,36 @@
   transition: background 0.2s ease;
 }
 
-.list-tags a:hover {
+.teleriunione-tags a:hover {
   background: #ccc;
 }
 
 </style>
 
-<main class="list-container">
+<main class="teleriunione-container">
 
-  <header class="list-header">
-    <h1 class="list-title">{{ .Title }}</h1>
+  <header class="teleriunione-header">
+    <h1 class="teleriunione-title">{{ .Title }}</h1>
   </header>
 
-  <section class="list-items">
+  <section class="teleriunione-items">
 
     {{ .Content }}
-
-    {{ $readings := where .Pages "File.BaseFileName" "readings" }}
-    {{ $sites := where .Pages "File.BaseFileName" "sites" }}
-
-    {{ range union $readings $sites }}
-      <article class="list-item">
+    {{ range .Pages }}
+      <article class="teleriunione-item">
         
-        <a class="list-item-title" href="{{ .RelPermalink }}">
+        <a class="teleriunione-item-title" href="{{ .RelPermalink }}">
           {{ .Title }}
         </a>
 
-        {{ with .Date }}
-        <div class="list-meta"><time>{{ .Format "January 2, 2006" }}</time></div>
-        {{ end }}
-
-        <p class="list-summary">
+        <p class="teleriunione-summary">
           {{ if .Summary }}
             {{ .Summary }}
           {{ end }}
         </p>
 
         {{ with .Params.tags }}
-        <div class="list-tags">
+        <div class="teleriunione-tags">
           {{ range . }}
             {{ $tagPage := $.Site.GetPage (printf "/tags/%s" (. | urlize)) }}
             {{ if $tagPage }}

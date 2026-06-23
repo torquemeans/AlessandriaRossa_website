@@ -17,18 +17,26 @@
   .list-title {
     font-size: 2.3rem;
     margin: 0 0 10px;
+    color: #9b3c3c;
   }
-
+  .list-items {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 28px;
+    color: #9b3c3c;
+  }
   /* Each list item */
   .list-item {
-    padding: 18px 22px;
-    margin: 20px 0;
-    border: 1px solid #ddd;
-    border-radius: 6px;
-    background: #fafafa;
-    transition: background 0.2s ease, border-color 0.2s ease;
+    display: block;
+    width: 100%;
+    padding: 22px 30px;
+    border: 2px solid #9b3c3c;
+    text-decoration: none;
+    background: #fff;
+    transition: background 0.15s ease;
   }
-
+/* Each collections item */
   .list-item:hover {
     background: #f0f0f0;
     border-color: #ccc;
@@ -37,7 +45,7 @@
   /* Title link */
   .list-item-title {
     font-size: 1.4rem;
-    color: #333;
+    color: #9b3c3c;
     text-decoration: none;
     font-weight: 600;
   }
@@ -48,7 +56,7 @@
 
   /* Meta info */
   .list-meta {
-    color: #777;
+    color: #9b3c3c;
     font-size: 0.9rem;
     margin: 4px 0 10px 0;
   }
@@ -58,7 +66,7 @@
     font-size: 1.05rem;
     line-height: 1.55;
     margin: 0 0 10px 0;
-    color: #444;
+    color: #9b3c3c;
   }
 
   /* Tags */
@@ -71,7 +79,7 @@
   .list-tags a {
     font-size: 0.85rem;
     background: #e0e0e0;
-    color: #333;
+    color: #9b3c3c;
     text-decoration: none;
     padding: 3px 8px;
     border-radius: 12px;
@@ -93,7 +101,10 @@
 
     {{ .Content }}
 
-    {{ range first 5 (sort (where .Site.RegularPages "Section" "posts") "Date" "desc") }}
+    {{ $featured := slice (.Site.GetPage "collections/translations/quinterna/Teleriunione/march2026/integrated.md") (.Site.GetPage "collections/translations/quinterna/Teleriunione/march2026/attack.md") (.Site.GetPage "collections/translations/quinterna/Teleriunione/april2026/towardsthe.md") }}
+
+    {{ range $featured }}
+
     <article class="list-item">
 
       <a class="list-item-title" href="{{ .RelPermalink }}">

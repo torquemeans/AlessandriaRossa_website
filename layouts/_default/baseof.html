@@ -4,6 +4,19 @@
 <head>
     <meta charset="UTF-8">
     <title> {{ .Site.Title }} </title>
+    <style>
+  @font-face {
+    font-family: 'WebGaramond';
+    src: url('{{ "media/font/EBGaramond.woff2" | absURL }}') format('woff2');
+    font-weight: 100 900;
+  }
+ 
+  * {
+    font-family: 'WebGaramond', sans-serif !important;
+    font-size: 1.2rem;
+
+  }
+</style>
 </head>
 
 <body>
@@ -37,16 +50,16 @@
         }
 
         .site-footer {
-            background-color: #333;
-            color: #eee;
+            background-color: #9b3c3c;
+            color: #fff;
             padding: 20px;
             text-align: center;
-            font-family: system-ui, Arial, sans-serif;
+            /* font-family: system-ui, Arial, sans-serif; */
             flex-shrink: 0;
         }
 
         .site-footer a {
-            color: #ddd;
+            color: #fff;
             text-decoration: none;
         }
 

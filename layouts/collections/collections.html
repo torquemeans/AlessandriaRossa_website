@@ -3,7 +3,7 @@
 <style>
 
 /* Container */
-.list-container {
+.collections-container {
   max-width: 900px;
   margin: 90px auto 40px auto;
   padding: 0 20px;
@@ -11,23 +11,23 @@
 }
 
 /* Page header */
-.list-header {
+.collections-header {
   margin-bottom: 30px;
-}
-
-.list-title {
-  font-size: 2.3rem;
-  margin: 0 0 10px;
   color: #9b3c3c;
 }
-.list-items {
+
+.collections-title {
+  font-size: 2.3rem;
+  margin: 0 0 10px;
+}
+.collections-items {
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 28px;
 }
-/* Each list item */
-.list-item {
+/* Each collections item */
+.collections-item {
   display: block;
   width: 100%;
   padding: 22px 30px;
@@ -36,33 +36,32 @@
   background: #fff;
   transition: background 0.15s ease;
 }
-
-.list-item:hover {
+.collections-item:hover {
   background: #f0f0f0;
   border-color: #ccc;
 }
 
 /* Title link */
-.list-item-title {
+.collections-item-title {
   font-size: 1.4rem;
   color: #9b3c3c;
   text-decoration: none;
   font-weight: 600;
 }
 
-.list-item-title:hover {
+.collections-item-title:hover {
   text-decoration: underline;
 }
 
 /* Meta info */
-.list-meta {
+.collections-meta {
   color: #9b3c3c;
   font-size: 0.9rem;
   margin: 4px 0 10px 0;
 }
 
 /* Summary */
-.list-summary {
+.collections-summary {
   font-size: 1.05rem;
   line-height: 1.55;
   margin: 0 0 10px 0;
@@ -70,13 +69,13 @@
 }
 
 /* Tags */
-.list-tags {
+.collections-tags {
   display: flex;
   flex-wrap: wrap;
   gap: 6px;
 }
 
-.list-tags a {
+.collections-tags a {
   font-size: 0.85rem;
   background: #e0e0e0;
   color: #9b3c3c;
@@ -86,44 +85,42 @@
   transition: background 0.2s ease;
 }
 
-.list-tags a:hover {
+.collections-tags a:hover {
   background: #ccc;
 }
 
 </style>
 
-<main class="list-container">
+<main class="collections-container">
 
-  <header class="list-header">
-    <h1 class="list-title">{{ .Title }}</h1>
+  <header class="collections-header">
+    <h1 class="collections-title">{{ .Title }}</h1>
   </header>
 
-  <section class="list-items">
+  <section class="collections-items">
 
     {{ .Content }}
 
-    {{ $readings := where .Pages "File.BaseFileName" "readings" }}
-    {{ $sites := where .Pages "File.BaseFileName" "sites" }}
+    {{ $lafumata := where .Pages "File.BaseFileName" "lafumata" }}
+    {{ $quinterna := where .Pages "Title" "Quinterna" }}
 
-    {{ range union $readings $sites }}
-      <article class="list-item">
+
+
+{{ range union $lafumata $quinterna }}
+      <article class="collections-item">
         
-        <a class="list-item-title" href="{{ .RelPermalink }}">
+        <a class="collections-item-title" href="{{ .RelPermalink }}">
           {{ .Title }}
         </a>
 
-        {{ with .Date }}
-        <div class="list-meta"><time>{{ .Format "January 2, 2006" }}</time></div>
-        {{ end }}
-
-        <p class="list-summary">
+        <p class="collections-summary">
           {{ if .Summary }}
             {{ .Summary }}
           {{ end }}
         </p>
 
         {{ with .Params.tags }}
-        <div class="list-tags">
+        <div class="collections-tags">
           {{ range . }}
             {{ $tagPage := $.Site.GetPage (printf "/tags/%s" (. | urlize)) }}
             {{ if $tagPage }}

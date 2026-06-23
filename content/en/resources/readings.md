@@ -9,7 +9,7 @@ summary = 'List of theorical text, from beginner to advanced topics'
 # General Overview
 - *[The Principles of Communism - Engels](https://www.marxists.org/archive/marx/works/1847/11/prin-com.htm)*
 - *[Manifesto of the Communist Party](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/)*
-- [The ABC of Communism - Bucharin](https://www.marxists.org/archive/bukharin/works/1920/abc/index.htm)
+- [The ABC of Communism - Bukharin](https://www.marxists.org/archive/bukharin/works/1920/abc/index.htm)
 - [Anti-Dühring - Engels](https://www.marxists.org/archive/marx/works/1877/anti-duhring/)
 - [The Fundamentals of Revolutionary Communism - ICP](https://www.marxists.org/archive/bordiga/works/1957/fundamentals.htm)
 # Critique of Political Economy
