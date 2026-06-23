@@ -10,6 +10,7 @@
     src: url('{{ "media/font/EBGaramond.woff2" | absURL }}') format('woff2');
     font-weight: 100 900;
   }
+
  
   * {
     font-family: 'WebGaramond', sans-serif !important;
@@ -20,7 +21,7 @@
 </head>
 
 <body>
-
+    <link rel="icon" type="image/png" href="media/images/favicon.png">
     {{ partial "header" . }}
 
     {{ block "main" . }}
