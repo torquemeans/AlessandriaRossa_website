@@ -63,6 +63,8 @@ main() {
   echo "Building the site..."
   hugo --gc --minify
 
+  
+
 }
 
 set -euo pipefail
