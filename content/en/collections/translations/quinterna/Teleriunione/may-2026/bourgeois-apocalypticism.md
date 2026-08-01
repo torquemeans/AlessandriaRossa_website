@@ -6,7 +6,7 @@ tags = ['translation', 'quinterna', 'teleriunione', 'may 2026']
 original_report = "https://www.quinternalab.org/teleriunioni/2026/maggio-2026/985-apocalitticismo-borghese"
 original_title = "Apocalitticismo borghese"
 original_date = "May 19, 2026"
-featured = true
+featured = false
 featureorder = 1
 +++
 
