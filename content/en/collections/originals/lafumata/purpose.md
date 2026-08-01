@@ -1,9 +1,9 @@
 +++
-draft = false
+draft = true
 title = 'Purpose of the working group, a roadmap, and our place'
 tags = ['original', 'miscellaneous']
 layout = 'single'
-featured = true
+featured = false
 featureorder = 1
 +++
 
