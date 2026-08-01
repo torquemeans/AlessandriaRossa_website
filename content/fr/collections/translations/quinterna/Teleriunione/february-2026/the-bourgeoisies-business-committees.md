@@ -7,7 +7,7 @@ original_title = "Comitati d'affari della borghesia"
 original_date = "24 février 2026"
 +++
 
-Le meeting en ligne de mardi soir s'est ouverte sur des réflexions relatives à la création du Board of Peace (BoP).
+Le meeting en ligne de mardi soir s'est ouvert sur des réflexions relatives à la création du Board of Peace (BoP).
 
 Cette [organisation](https://www.unimondo.org/news/il-board-of-peace-la-partita-globale-che-passa-da-gaza), conçue par l'administration américaine actuelle, reflète les changements des équilibres inter-impérialistes et la nécessité pour les États-Unis d'y faire face. Il ne s'agit pas d'un organe intergouvernemental traditionnel, mais plutôt d'une expérience de [gouvernance](https://www.wired.it/article/board-of-peace-debutta-washington-diplomazia-senza-diplomatici/) publique et privée, établie dans le cadre du plan de paix pour Gaza défini par la résolution 2803 du Conseil de sécurité des Nations Unies, qui accentue son rôle de soutien et de supervision des processus de transition.
 
