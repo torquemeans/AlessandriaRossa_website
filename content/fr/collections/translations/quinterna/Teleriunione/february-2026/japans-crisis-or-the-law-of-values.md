@@ -40,5 +40,4 @@ Les citoyens américains possèdent la population la plus lourdement armée au m
 Aux États-Unis, une [guerre civile](https://www.quinterna.org/pubblicazioni/rivista/55/guerra-civile-negli-USA-ma-non-quella-vera.htm) existe déjà, bien qu'actuellement de faible intensité. Celle qui advient sera celle d'aujourd'hui, mais portée à une puissance supérieure.
 
 [^1]: Pourquoi le Japon pourrait déclencher une crise mondiale
-
 [^2]: La crise Japonaise
