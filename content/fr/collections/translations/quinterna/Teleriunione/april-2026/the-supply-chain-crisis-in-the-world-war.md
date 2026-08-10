@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "La crise de la chaîne d'approvisionnement pendant Guerre mondiale"
+title = "La crise de la chaîne d'approvisionnement dans la Guerre Mondiale"
 tags = ['translation', 'quinterna', 'teleriunione', 'february 2026']
 original_report = "https://www.quinternalab.org/teleriunioni/2026/aprile-2026/979-la-crisi-delle-catene-logistiche-nella-guerra-mondiale"
 original_title = "La crisi delle catene logistiche nella guerra mondiale"
