@@ -42,7 +42,7 @@ La Troisième Guerre mondiale pourrait se dérouler par étapes, comme l'a sugg�
 Aussi, d'un point de vue social, le système capitaliste est de plus en plus chaotique et instable. De nombreuses entreprises de logiciels informatiques et des entrepreneurs tirent la sonnette d'alarme face aux récents développements de l'intelligence artificielle. Dans le secteur financier, on craint que [Mythos](https://www.ilpost.it/2026/04/11/anthropic-ai-governo-stati-uniti-mythos-falle-sicurezza-banche/), le nouveau modèle d'IA très avancé d'Anthropic, ne compromette la sécurité des banques, des établissements de crédit et des gouvernements, car il est capable d'identifier des vulnérabilités dans les systèmes informatiques actuellement inconnues des programmeurs humains et de diverses technologies de contrôle. Il est tout aussi vrai que ce modèle pourrait précisément servir à construire de nouvelles cyber-défenses. Comme toujours, il ne s'agit pas de [diaboliser un outil](https://www.quinterna.org/pubblicazioni/rivista/38/dalla_necessita_alla_liberta.htm) ; tout dépend de qui l'utilise, des objectifs pour lesquels il est employé et, par-dessus tout, de la lutte perpétuelle pour l'hégémonie dans le domaine de l'IA.
 
 [^1]: Adapté de l'italien « politiguerra », mot-valise formé de politica (politique) et guerre (guerre)
-[^2]: « Théorie et praxis de la politique de guerre américaine »
+[^2]: « Théorie et praxis de la guerrepolitik américaine »
 [^3]: « Toquer à la Porte de l'Enfer »
 [^4]: « L' "Europe" potentielle et les nouveaux pôles d'attraction de l'Eurasie : la Turquie comme point d'appui dynamique »
 [^5]: « Un modèle dynamique des crises »

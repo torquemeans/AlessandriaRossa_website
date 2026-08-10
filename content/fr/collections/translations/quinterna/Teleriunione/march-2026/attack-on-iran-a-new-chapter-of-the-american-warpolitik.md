@@ -1,7 +1,7 @@
 +++
 date = '2026-04-14T20:22:43+02:00'
 draft = false
-title = "Attaque contre l'Iran : un nouveau chapitre de la 'politiguerre américaine'"
+title = "Attaque contre l'Iran : un nouveau chapitre de la 'guerrepolitik américaine'"
 tags = ['translation', 'quinterna', 'teleriunione', 'march 2026']
 original_report = "https://www.quinternalab.org/teleriunioni/2026/marzo-2026/974-attacco-all-iran-un-nuovo-capitolo-della-politiguerra-americana"
 original_title = "Attacco all'Iran: un nuovo capitolo della 'politiguerra americana'"
@@ -39,6 +39,6 @@ Ce n'est pas la soif de sang des capitalistes qui engendre la guerre, comme le p
 
 De nombreux processus s'entremêlent et, par souci de clarté, nous les traiterons séparément (guerre, économie, technologie, etc.), mais ils font en réalité partie d'une seule et même dynamique, celle qui conduit à la « [singularité historique](https://www.quinterna.org/pubblicazioni/rivista/40/verso_la_singolarita_storica.htm) ».
 
-[^1]: Théorie et pratique de la nouvelle politiguerre américaine
+[^1]: Théorie et pratique de la nouvelle guerrepolitik américaine
 [^2]: Un modèle de crise dynamique
 [^3]: Jeu de mots entre « luogo comune » (lieu commun) et « comunismo » (communisme)

@@ -42,7 +42,7 @@ Il s'agit de passer de la photographie de la guerre à sa cinématographie, de l
 
 Pour le capitalisme, il existe un ennemi sans patrie ni armée, mais extrêmement dangereux : la classe démunie. La crise du système engendre le chaos social, multipliant les pulsions irrationnelles (voir le mouvement antivaccination durant la pandémie de Covid-19, ou les phénomènes de fanatisme religieux tels que les [Conférences Romaines](https://www.fanpage.it/politica/che-cosa-ha-detto-peter-thiel-nelle-lezioni-sullanticristo-che-sta-tenendo-a-roma/) de Peter Thiel consacrées à l'Antéchrist). Parallèlement, la nécessité matérielle d'interpréter les faits sociaux par une approche rationnelle, c'est-à-dire en adoptant la méthode scientifique, s'impose.
 
-[^1]: Théorie et pratique de la nouvelle politique de guerre américaine
+[^1]: Théorie et pratique de la nouvelle guerrepolitik américaine
 [^2]: Mot-valise formé à partir de politica (politique) et guerra (guerre), illustrant la fusion des deux concepts
 [^3]: Théorie et pratique
 [^4]: Lois de symétrie et scénarios catastrophes

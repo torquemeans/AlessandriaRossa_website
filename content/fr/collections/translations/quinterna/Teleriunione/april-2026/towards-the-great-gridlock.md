@@ -41,7 +41,7 @@ La population mondiale a atteint 8 milliards d'habitants, dont plus de 4 milliar
 [^5]: Dynamique des processus historiques, vol. I - Théorie de l'accumulation
 [^6]: La guerre du Golfe et ses conséquences
 [^7]: Mondialisation
-[^8]: Théorie et praxis de la nouvelle politique de guerre américaine
+[^8]: Théorie et praxis de la nouvelle guerrepolitik américaine
 [^9]: La loi de la Misère Croissante
 [^10]: Un modèle dynamique de crise
 [^11]: Numéro spécial sur l'Énergie
