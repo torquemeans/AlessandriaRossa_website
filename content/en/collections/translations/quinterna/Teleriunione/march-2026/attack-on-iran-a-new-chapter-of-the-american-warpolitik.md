@@ -40,6 +40,6 @@ It’s not the blood thirst of capitalists that produces wars, as some *luogocom
 Numerous processes are operating  that, for ease of explanation, we treat separately (war, economy, technology, etc.), in reality they’re part of an unique dynamic, the one that leads to the “[historical singularity](https://www.quinterna.org/pubblicazioni/rivista/40/verso_la_singolarita_storica.htm)”.
 
 [^1]: Portmanteau of *politica* (politics) and *guerra* (war), denoting how the two concepts have coalesced
-[^2]: Theory and Praxis of the new American Warpolitik
+[^2]: Theory and Praxis of the New American Warpolitik
 [^3]: A Dynamic Model of Crisis
 [^4]: Wordplay between *luogo comune* (commonplace) and *comunismo* (communism)
