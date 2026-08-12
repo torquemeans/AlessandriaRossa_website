@@ -7,7 +7,7 @@ original_report = "https://www.avantibarbari.com/news.php?sez_id=3&news_id=50"
 original_title = "Bruno Miserendino, Chiedo più rispetto per Amadeo (L'Unità , 24 luglio 1990)"
 +++
 
-**A conversation with Bordiga’s wife, Antonietta de Meo: the friendship with Gramsci, the confinement and the complicated relationship with Palmiro Togliatti**
+## A conversation with Bordiga’s wife, Antonietta de Meo: the friendship with Gramsci, the confinement and the complicated relationship with Palmiro Togliatti
 
 Amadeo Bordiga: a tough and uncompromising Leninist, a protagonist of the split of Livorno, the anti-liberal par excellence. But also a communist that, politically isolated and expelled from the party, kept a reciprocal friendship with Gramsci, spending the last 40 years of his life in dignified silence, encircled by oblivion. Sometimes this oblivion, especially during the last war, was broken to say really unpleasant things about him. There were heavy accusations from Togliatti – albeit amended later – to which he only offered silence. The rumours, the critiques, the accusations of those years are still remembered without bitterness by Bordiga’s widow, Mrs. Antonietta De Meo – elderly, but lucid keeper of her husband’s image.
 

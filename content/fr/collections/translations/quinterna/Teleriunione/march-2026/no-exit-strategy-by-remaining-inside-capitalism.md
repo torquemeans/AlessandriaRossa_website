@@ -39,5 +39,5 @@ La journaliste Naomi Klein a publié en 2007 un essai intitulé « La Stratégie
 « Les hommes ont commencé à communiquer et à écrire parce qu'ils avaient besoin de coordonner leur travail » (F. Engels, « Le Rôle du Travail dans la Transformation du Singe en Homme », 1876). L'écriture a permis de fixer l'information sur un support physique. Aujourd'hui, avec les progrès de l'intelligence artificielle, une autre révolution s'opère : [l'information](https://www.quinterna.org/pubblicazioni/rivista/37/informazione_e_potere.htm) s'auto-organise, ouvrant la voie à une nouvelle libération de l'espèce humaine vis-à-vis du règne de la nécessité. Les capitalistes investissent dans les logiciels et la robotique pour éliminer la concurrence, mais craignent en même temps les conséquences du développement technologique car ils y voient la crise du système salarial. Une contradiction qu'ils ne peuvent pas résoudre.
 
 [^1]: L'Iran et l'option Samson : tout miser sur l'effondrement de l'économie des pays du Golfe
-[^2]: Théorie et pratique de la nouvelle politique de guerre américaine
+[^2]: Théorie et pratique de la nouvelle guerrepolitik américaine
 [^3]: Thrillers et drames sinistres de la décadence sociale moderne

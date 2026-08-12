@@ -1,9 +1,9 @@
 +++
 draft = false
-title = "La crise de la chaîne d'approvisionnement pendant Guerre mondiale"
+title = "La crise de la chaîne d'approvisionnement dans la Guerre Mondiale"
 tags = ['translation', 'quinterna', 'teleriunione', 'february 2026']
 original_report = "https://www.quinternalab.org/teleriunioni/2026/aprile-2026/979-la-crisi-delle-catene-logistiche-nella-guerra-mondiale"
-original_title = "Crisi del Giappone o della legge del valore?"
+original_title = "La crisi delle catene logistiche nella guerra mondiale"
 original_date = "10 avril 2026"
 +++
 
@@ -21,7 +21,7 @@ Nous assistons à une crise que notre notre école de pensée directrice a défi
 
 L'impérialisme des porte-avions se caractérise par le contrôle des océans et des mers, non pas dans le sens d'une domination capillaire de chaque kilomètre carré, mais plutôt par la présence de garnisons aux points stratégiques principaux -- ports, détroits, [points de passage obligés](https://www.youtube.com/watch?v=oVlXkCdQh9c) -- qui constituent des passages obligatoires : Suez, Panama, Malacca, Bab el-Mandeb, Ormuz, Gibraltar. La mer relie le continent, où est produite la plus-value ; ce n'est pas un hasard si 90 % des marchandises transitent par [voie maritime](https://www.logisticanews.it/trasporto-marittimo-re-della-distribuzione-globale-il-90-dei-volumi-e-suo/). Quand on parle du déclin des États-Unis on ne fait pas ici allusion à un processus graduel mais plutôt à des accumulations de longue date qui trouvent une résolution irrégulière, à l'image d'une poutre supportant une charge toujours plus lourde : d'abord elle craque, puis elle finit par céder. C'est ce que la Gauche Communiste appelle une « transition catastrophique ».
 
-Le blocus d'Ormuz par les États-Unis s'inscrit dans un jeu de guerre qui implique le monde entier : des pays du Golfe à la Chine, jusqu'au continent européen. Nous sommes entrés dans la phase de la « warpolitik »[^1], un terme désignant la fusion de la politique et de la guerre, déjà théorisée par Carl von Clausewitz. Le rôle des États-Unis en tant que rentier mondial, fondé sur leur suprématie militaire, semble aujourd'hui être entré en profonde crise. Dans l'article « [Teoria e prassi della politiguerra americana](https://www.quinterna.org/pubblicazioni/rivista/11/invasione_iraq.htm) »[^2], nous écrivions : « La warpolitik est le bras long de l'État. Dans le contexte actuel, le capital mondial a besoin d'un État mondial et, par conséquent, pour être cohérente, la stratégie des États-Unis devrait naturellement viser cet objectif. Mais comme cela est impossible à réaliser, ils sont contraints d'opérer sur le modèle de l'ancien impérialisme national. Or, ils se trouvent alors confrontés à une contradiction insurmontable, liée au fait qu'une stratégie politique issue d'une période historique révolue ne peut s'intégrer à la dynamique historique actuelle. »
+Le blocus d'Ormuz par les États-Unis s'inscrit dans un jeu de guerre qui implique le monde entier : des pays du Golfe à la Chine, jusqu'au continent européen. Nous sommes entrés dans la phase de la « guerrepolitik »[^1], un terme désignant la fusion de la politique et de la guerre, déjà théorisée par Carl von Clausewitz. Le rôle des États-Unis en tant que rentier mondial, fondé sur leur suprématie militaire, semble aujourd'hui être entré en profonde crise. Dans l'article « [Teoria e prassi della politiguerra americana](https://www.quinterna.org/pubblicazioni/rivista/11/invasione_iraq.htm) »[^2], nous écrivions : « La warpolitik est le bras long de l'État. Dans le contexte actuel, le capital mondial a besoin d'un État mondial et, par conséquent, pour être cohérente, la stratégie des États-Unis devrait naturellement viser cet objectif. Mais comme cela est impossible à réaliser, ils sont contraints d'opérer sur le modèle de l'ancien impérialisme national. Or, ils se trouvent alors confrontés à une contradiction insurmontable, liée au fait qu'une stratégie politique issue d'une période historique révolue ne peut s'intégrer à la dynamique historique actuelle. »
 
 À ce jour, il n'y a aucun signe manifeste d'une nouvelle architecture mondiale qui soit capable de remplacer l'impérialisme américain et de pérenniser le capitalisme mondial. Si les États-Unis venaient à perdre le contrôle de leurs nœuds stratégiques, cela aurait des répercussions dramatiques sur la force du dollar.
 
@@ -41,8 +41,8 @@ La Troisième Guerre mondiale pourrait se dérouler par étapes, comme l'a sugg�
 
 Aussi, d'un point de vue social, le système capitaliste est de plus en plus chaotique et instable. De nombreuses entreprises de logiciels informatiques et des entrepreneurs tirent la sonnette d'alarme face aux récents développements de l'intelligence artificielle. Dans le secteur financier, on craint que [Mythos](https://www.ilpost.it/2026/04/11/anthropic-ai-governo-stati-uniti-mythos-falle-sicurezza-banche/), le nouveau modèle d'IA très avancé d'Anthropic, ne compromette la sécurité des banques, des établissements de crédit et des gouvernements, car il est capable d'identifier des vulnérabilités dans les systèmes informatiques actuellement inconnues des programmeurs humains et de diverses technologies de contrôle. Il est tout aussi vrai que ce modèle pourrait précisément servir à construire de nouvelles cyber-défenses. Comme toujours, il ne s'agit pas de [diaboliser un outil](https://www.quinterna.org/pubblicazioni/rivista/38/dalla_necessita_alla_liberta.htm) ; tout dépend de qui l'utilise, des objectifs pour lesquels il est employé et, par-dessus tout, de la lutte perpétuelle pour l'hégémonie dans le domaine de l'IA.
 
-[^1]: Adapté de l'italien « politiguerra », mot-valise formé de politica (politique) et guerra (guerre)
-[^2]: « Théorie et praxis de la politique de guerre américaine »
+[^1]: Adapté de l'italien « politiguerra », mot-valise formé de politica (politique) et guerre (guerre)
+[^2]: « Théorie et praxis de la guerrepolitik américaine »
 [^3]: « Toquer à la Porte de l'Enfer »
 [^4]: « L' "Europe" potentielle et les nouveaux pôles d'attraction de l'Eurasie : la Turquie comme point d'appui dynamique »
 [^5]: « Un modèle dynamique des crises »
