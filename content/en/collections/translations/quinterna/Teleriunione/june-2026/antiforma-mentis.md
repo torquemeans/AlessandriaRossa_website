@@ -1,5 +1,5 @@
 +++
-draft = false
+draft = true
 title = "Antiforma Mentis"
 tags = ['translation', 'quinterna', 'teleriunione', 'june 2026']
 original_report = "https://www.quinternalab.org/teleriunioni/2026/giugno-2026/988-antiforma-mentis"

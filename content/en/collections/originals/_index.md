@@ -1,5 +1,5 @@
 +++
-draft = false
+draft = true
 title = 'Originals'
 summary = 'This is for storing all original works'
 layout = 'collection'
