@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Antiforma Mentis"
 tags = ['translation', 'quinterna', 'teleriunione', 'june 2026']
 original_report = "https://www.quinternalab.org/teleriunioni/2026/giugno-2026/988-antiforma-mentis"
@@ -10,7 +10,7 @@ The online meeting on Tuesday evening started with a comment on the essay by [Ne
 
 According to Amodei, mankind’s race to stay in step with the machines is wound up with the fact that no one knows exactly what happens within them. The lack of comprehension of the mechanisms that guide their functioning impedes the prediction of developments in the short term and raises important questions of [security](https://www.ansa.it/sito/notizie/mondo/2026/06/13/anthropic-sospende-i-modelli-ia-piu-potenti-su-pressioni-governo-usa_77cb9e8a-fb0e-4bd2-b8aa-9b3da590c092.html):
 
-> *"\[. . .\] generative AI systems are grown more than they are built—their internal mechanisms are "emergent" rather than directly designed \[. . .\] People outside the field are often surprised and alarmed to learn that we do not understand how our own AI creations work."*
+> *"\[. . .\] generative AI systems are grown more than they are built—their internal mechanisms are emergent rather than directly designed \[. . .\] People outside the field are often surprised and alarmed to learn that we do not understand how our own AI creations work."*
 
 Per Cristianini, [exploring](https://www.wired.it/article/intervista-nello-cristianini-big-interview/) the "black box" in AI systems requires three levels of abstraction. The "micro" level – represented by single elements, that is, by single neurons and their functioning – is not sufficient to comprehend the processes that lead to elaborate outputs.
 
@@ -42,4 +42,4 @@ In a YouTube [interview](https://cosasposta.substack.com/p/anthropic-non-si-capi
 
 [^1]: Forma Mentis. The Rush to Decipher the Thoughts of Machines
 [^2]: Meso being middle. For example, Mesopotamia, Mesoamerica, and Mesozoic.
-[^3]: Trajectory and Catastrophe of the Capitalist Form…
+[^3]: Trajectory and Catastrophe of the Capitalist Form...
