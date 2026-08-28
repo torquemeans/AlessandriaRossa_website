@@ -8,13 +8,6 @@ original_date = "26 mai 2026"
 featured = true
 featureorder = 1
 +++
-Le développement de l'homme-industrie
-
-Texte original : [Sviluppo dell'uomo-industria](https://www.quinternalab.org/teleriunioni/2026/maggio-2026/986-sviluppo-dell-uomo-industria)
-
-Date de publication originale : 26 mai 2026
-
-29 juin 2026
 
 Le meeting en ligne de mardi soir a débuté par l'analyse de quelques extraits de l'encyclique du Pape Léon XIV, « Magnifica Humanitas » (« Magnifique humanité »).
 
