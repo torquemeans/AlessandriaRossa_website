@@ -9,10 +9,6 @@ featured = true
 featureorder = 2
 +++
 
-« Quelque chose de grandiose est en train de se préparer »
-
-Date de publication initiale : 
-
 Le point de départ du meeting en ligne de mardi était un article sur les progrès de l'intelligence artificielle, "[Something big is happening](https://shumer.dev/something-big-is-happening)", écrit par Matt Shumer, informaticien, fondateur et PDG de la start-up OthersideAI.
 
 L'article, qui analyse les bouleversements actuels liés à l'utilisation croissante des systèmes basés sur l'IA, a suscité la polémique et s'est immédiatement propagé de manière virale sur Internet. Publié sur X le 10 février, il a été lu par 80 millions de personnes en deux jours seulement.
